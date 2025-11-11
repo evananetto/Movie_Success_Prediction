@@ -47,15 +47,15 @@ Trained and compared **9 classification models** for pre-release prediction:
 
 | # | Algorithm | Description |
 |---|------------|--------------|
-| 1️⃣ | Logistic Regression | Baseline model for binary classification |
-| 2️⃣ | Decision Tree Classifier | Simple tree-based model to capture rules |
-| 3️⃣ | Random Forest Classifier | Ensemble of multiple trees for stability |
-| 4️⃣ | K-Nearest Neighbors (KNN) | Prediction based on neighboring data points |
-| 5️⃣ | AdaBoost Classifier | Boosting weak learners for better accuracy |
-| 6️⃣ | Gradient Boosting Classifier | Sequential boosting to minimize errors |
-| 7️⃣ | XGBoost Classifier | Optimized gradient boosting with regularization |
-| 8️⃣ | LightGBM Classifier | Fast gradient boosting for large datasets |
-| 9️⃣ | CatBoost Classifier | Handles categorical data efficiently |
+| 1 | Logistic Regression | Baseline model for binary classification |
+| 2 | Decision Tree Classifier | Simple tree-based model to capture rules |
+| 3 | Random Forest Classifier | Ensemble of multiple trees for stability |
+| 4 | K-Nearest Neighbors (KNN) | Prediction based on neighboring data points |
+| 5 | AdaBoost Classifier | Boosting weak learners for better accuracy |
+| 6 | Gradient Boosting Classifier | Sequential boosting to minimize errors |
+| 7 | XGBoost Classifier | Optimized gradient boosting with regularization |
+| 8 | LightGBM Classifier | Fast gradient boosting for large datasets |
+| 9 | CatBoost Classifier | Handles categorical data efficiently |
 
 **3. Model Evaluation**  
 Each model was evaluated using:  
