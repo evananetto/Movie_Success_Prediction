@@ -76,7 +76,7 @@ Each model was evaluated using:
 | KNN | Average | Sensitive to scaling and distance |
 | AdaBoost | Decent | Improved balance, some misclassifications |
 | Gradient Boosting | Strong | Stable and consistent predictions |
-| **XGBoost Classifier** | **≈ 69%** | ⭐ **Best Performer** |
+| **XGBoost Classifier** | **≈ 89%** | ⭐ **Best Performer** |
 | LightGBM | Good | Fast, close to XGBoost |
 | CatBoost | Good | Competitive, handles categories well |
 
